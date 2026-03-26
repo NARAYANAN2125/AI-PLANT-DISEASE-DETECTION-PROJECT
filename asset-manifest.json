@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/css/main.3ab6ca7e.css",
-    "main.js": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/js/main.e67f4650.js",
+    "main.js": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/js/main.6cb9fff0.js",
     "static/js/453.af205ec6.chunk.js": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/js/453.af205ec6.chunk.js",
     "index.html": "/AI-PLANT-DISEASE-DETECTION-PROJECT/index.html",
     "main.3ab6ca7e.css.map": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/css/main.3ab6ca7e.css.map",
-    "main.e67f4650.js.map": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/js/main.e67f4650.js.map",
+    "main.6cb9fff0.js.map": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/js/main.6cb9fff0.js.map",
     "453.af205ec6.chunk.js.map": "/AI-PLANT-DISEASE-DETECTION-PROJECT/static/js/453.af205ec6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ab6ca7e.css",
-    "static/js/main.e67f4650.js"
+    "static/js/main.6cb9fff0.js"
   ]
 }
